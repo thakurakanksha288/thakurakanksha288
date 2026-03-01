@@ -13,3 +13,8 @@ I’m lowkey a jack of all trades — into tech, creativity, and random genius i
 [![](https://visitcount.itsvg.in/api?id=thakurakanksha288&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+![snake gif](https://github.com/thakurakanksha288/thakurakanksha288/blob/output/github-contribution-grid-snake.svg)
