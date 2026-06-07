@@ -8,6 +8,8 @@ I’m lowkey a jack of all trades — into tech, creativity, and random genius i
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thakurakanksha288&theme=blue_navy&show_icons=true" alt="GitHub Stats" />
   <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurakanksha288&theme=tokyonight" alt="GitHub Streak Stats" />
+  <br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thakurakanksha288&theme=blue_navy&layout=compact" alt="Top Languages" />
 </p>
 
