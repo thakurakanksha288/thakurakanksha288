@@ -33,7 +33,7 @@ I'm lowkey a jack of all trades — into tech, creativity, and random genius ide
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,r,js,matlab&theme=dark" />
 <br>
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=A855F7)
+<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=A855F7" />
 
 <br><br>
 
@@ -41,10 +41,10 @@ I'm lowkey a jack of all trades — into tech, creativity, and random genius ide
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy&theme=dark" />
 <br>
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=A855F7)
-![Keras](https://img.shields.io/badge/-Keras-000000?style=for-the-badge&logo=keras&logoColor=A855F7)
-![XGBoost](https://img.shields.io/badge/-XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=A855F7)
-![CatBoost](https://img.shields.io/badge/-CatBoost-000000?style=for-the-badge&logoColor=A855F7)
+<img src="https://img.shields.io/badge/-scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/-Keras-000000?style=for-the-badge&logo=keras&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/-XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/-CatBoost-000000?style=for-the-badge&logoColor=A855F7" />
 
 <br><br>
 
@@ -62,10 +62,10 @@ I'm lowkey a jack of all trades — into tech, creativity, and random genius ide
 
 **Data Visualization**
 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logoColor=A855F7)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=for-the-badge&logoColor=A855F7)
-![Power BI](https://img.shields.io/badge/-Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=A855F7)
-![Tableau](https://img.shields.io/badge/-Tableau-000000?style=for-the-badge&logo=tableau&logoColor=A855F7)
+<img src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/-Seaborn-000000?style=for-the-badge&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/-Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/-Tableau-000000?style=for-the-badge&logo=tableau&logoColor=A855F7" />
 
 <br><br>
 
@@ -94,7 +94,7 @@ I'm lowkey a jack of all trades — into tech, creativity, and random genius ide
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=thakurakanksha288&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
+<img src="https://github-profile-trophy.vercel.app/?username=thakurakanksha288&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -129,7 +129,7 @@ I'm lowkey a jack of all trades — into tech, creativity, and random genius ide
 <div align="center">
 
 <!--START_SECTION:activity-->
-![Snake animation](https://raw.githubusercontent.com/thakurakanksha288/thakurakanksha288/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/thakurakanksha288/thakurakanksha288/output/github-contribution-grid-snake-dark.svg" />
 <!--END_SECTION:activity-->
 
 </div>
