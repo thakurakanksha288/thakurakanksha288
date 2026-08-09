@@ -77,19 +77,6 @@ I'm lowkey a jack of all trades — into tech, creativity, and random genius ide
 
 <br>
 
-## ⚫ &nbsp; Featured Projects
-
-<div align="center">
-
-- 🔗 [**PORTFOLIO**](https://github.com/thakurakanksha288/PORTFOLIO)
-- 🔗 [**die-game**](https://github.com/thakurakanksha288/die-game)
-- 🔗 [**CAFE-FINDER-**](https://github.com/thakurakanksha288/CAFE-FINDER-)
-- 🔗 [**RocPilot**](https://github.com/thakurakanksha288/RocPilot)
-
-</div>
-
-<br>
-
 ## ⚫ &nbsp; Currently
 
 <div align="center">
