@@ -114,8 +114,8 @@ I'm lowkey a jack of all trades — into tech, creativity, and random genius ide
 <a href="https://github.com/thakurakanksha288/CAFE-FINDER-">
 <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=thakurakanksha288&repo=CAFE-FINDER-&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=E5E5E5&hide_border=true" />
 </a>
-<a href="https://github.com/thakurakanksha288/DS-Lab-2P11">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=thakurakanksha288&repo=DS-Lab-2P11&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=E5E5E5&hide_border=true" />
+<a href="https://github.com/thakurakanksha288/RocPilot">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=thakurakanksha288&repo=RocPilot&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=E5E5E5&hide_border=true" />
 </a>
 
 *(edit the `repo=` names above to swap in whichever repos you want pinned)*
