@@ -39,14 +39,6 @@
 
 </div>
 
-### ‹ Currently Learning ›
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" />
-
-</div>
-
 ---
 
 ## ⚡ Stats ⚡
