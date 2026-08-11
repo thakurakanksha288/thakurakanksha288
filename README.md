@@ -31,10 +31,6 @@
 
 </div>
 
-### ‹ Machine Learning & AI ›
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy&theme=dark" />
 
 </div>
