@@ -28,10 +28,10 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,r,js,matlab,react,nodejs,html,css,mysql,mongodb,git,github,docker,vscode&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy&theme=dark" />
 </div>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy&theme=dark" />
+
 
 </div>
 
