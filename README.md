@@ -29,9 +29,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,r,js,matlab,react,nodejs,html,css,mysql,mongodb,git,github,docker,vscode&theme=dark" />
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy&theme=dark" />
-</div>
-
-
 
 </div>
 
@@ -43,13 +40,19 @@
 
 <img src="https://streak-stats.demolab.com/?user=thakurakanksha288&hide_border=true&background=000000&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B6B6B" />
 
+<br><br>
+
+<a href="https://github.com/ashutosh007/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurakanksha288&theme=react-dark&hide_border=true&bg_color=000000&color=A855F7&line=A855F7&point=FFFFFF" alt="Akanksha's Activity Graph" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-⋆　　.　　　⋆　　　.　　⋆　　　.　　　⋆
+⋆  .   ⋆  {nbsp}.  ⋆   .   ⋆
 
 *thanks for stopping by.*
 
