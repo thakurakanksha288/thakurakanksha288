@@ -47,25 +47,12 @@
 ## ⚡ Stats & Activity ⚡
 
 <div align="center">
-  <!-- GitHub Snake Animation -->
-  <img src="https://raw.githubusercontent.com/thakurakanksha288/thakurakanksha288/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
-  <br><br>
-
-  <!-- GitHub Stats & Top Languages -->
-  <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-stats.vercel.app/api?username=thakurakanksha288&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=E5E5E5&border_radius=8" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurakanksha288&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=A855F7&text_color=E5E5E5&border_radius=8" alt="Top Languages" />
-  </a>
-
-  <br><br>
-
-  <!-- Activity Graph -->
+  <!-- Activity Graph (Verified Working) -->
   <a href="https://github.com/thakurakanksha288">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurakanksha288&theme=react-dark&hide_border=true&bg_color=000000&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" />
   </a>
+
 </div>
 
 ---
