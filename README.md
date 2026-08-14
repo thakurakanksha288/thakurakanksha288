@@ -28,9 +28,9 @@
 ## ⟪ Technical Skills ⟫
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,js,matlab,react,nodejs,html,css,mysql,mongodb,git,github,docker,vscode,postman&theme=dark" alt="Skills List 1" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy&theme=dark" alt="Skills List 2" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,js,matlab,react,nodejs,html,css,mysql,mongodb,git,github,docker,vscode,postman&theme=dark" alt="Technical Skills" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy&theme=dark" alt="ML Frameworks" />
 </div>
 
 <br>
@@ -44,13 +44,27 @@
 
 ---
 
-## ⚡ Stats ⚡
+## ⚡ Stats & Activity ⚡
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=thakurakanksha288&hide_border=true&background=000000&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B6B6B" alt="GitHub Streak Stats" />
+  <!-- GitHub Snake Animation -->
+  <img src="https://raw.githubusercontent.com/thakurakanksha288/thakurakanksha288/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
   <br><br>
+
+  <!-- GitHub Stats & Top Languages -->
   <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurakanksha288&theme=react-dark&hide_border=true&bg_color=000000&color=A855F7&line=A855F7&point=FFFFFF" alt="Akanksha's Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thakurakanksha288&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=E5E5E5&border_radius=8" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/thakurakanksha288">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurakanksha288&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=A855F7&text_color=E5E5E5&border_radius=8" alt="Top Languages" />
+  </a>
+
+  <br><br>
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/thakurakanksha288">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurakanksha288&theme=react-dark&hide_border=true&bg_color=000000&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" />
   </a>
 </div>
 
