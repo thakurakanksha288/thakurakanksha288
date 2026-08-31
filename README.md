@@ -50,14 +50,14 @@
 
   <!-- GitHub Overall Stats -->
   <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-stats.vercel.app/api?username=thakurakanksha288&show_icons=true&hide_border=true&bg_color=000000&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=thakurakanksha288&show_icons=true&hide_border=true&bg_color=000000&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
   </a>
 
   <br><br>
 
   <!-- Top Languages -->
   <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurakanksha288&layout=compact&hide_border=true&bg_color=000000&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thakurakanksha288&layout=compact&hide_border=true&bg_color=000000&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
   </a>
 
   <br><br>
@@ -69,10 +69,6 @@
 
   <br><br>
 
-  <!-- Activity Graph -->
-  <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurakanksha288&bg_color=000000&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
 
 </div>
 
