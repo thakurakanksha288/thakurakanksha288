@@ -48,20 +48,6 @@
 
 <div align="center">
 
-  <!-- GitHub Overall Stats -->
-  <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=thakurakanksha288&show_icons=true&hide_border=true&bg_color=000000&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
-  </a>
-
-  <br><br>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thakurakanksha288&layout=compact&hide_border=true&bg_color=000000&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
-  </a>
-
-  <br><br>
-
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/thakurakanksha288">
     <img src="https://streak-stats.demolab.com/?user=thakurakanksha288&background=000000&border=000000&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7&dates=888888" alt="GitHub Streak" />
@@ -71,7 +57,7 @@
 
   <!-- Activity Graph -->
   <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurakanksha288&theme=react-dark&hide_border=true&bg_color=000000&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurakanksha288&theme=react-dark&hide_border=true&bg_color=000000&color=A855F7&line=A855F7&point=FFFFFF&area=true" alt="Activity Graph" />
   </a>
 
 </div>
