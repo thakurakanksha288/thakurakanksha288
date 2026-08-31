@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%21+I'm+Akanksha" alt="Typing SVG" />
-</div>
-
-<br>
+# ⚡ Hi there! I'm Akanksha
 
 ### 🚀 Welcome to Akanksha's Build Log
 
@@ -14,26 +10,11 @@
 
 <br>
 
-<div align="center">
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
-  </a>
-</div>
+📫 **Connect with me:** [Email](mailto:your.email@gmail.com) • [LinkedIn](https://linkedin.com/in/your-linkedin-profile) • [GitHub](https://github.com/thakurakanksha288)
 
 ---
 
 ## ⟪ Technical Skills ⟫
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,js,matlab,react,nodejs,html,css,mysql,mongodb,git,github,docker,vscode,postman&theme=dark" alt="Technical Skills" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy&theme=dark" alt="ML Frameworks" />
-</div>
-
-<br>
 
 * **Machine Learning & AI:** Deep Learning, NLP, Computer Vision, EDA, Regression, Feature Engineering, Model Optimization, SHAP, TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, XGBoost, CatBoost, Random Forest, SMOTE, Statistics
 * **Programming Languages:** Python, C++, Java, R, JavaScript, SQL, MATLAB
@@ -44,33 +25,9 @@
 
 ---
 
-## ⚡ Stats & Activity ⚡
+## ⚡ GitHub Activity ⚡
 
-<div align="center">
-
-  <!-- GitHub Overall Stats & Most Used Languages -->
-  <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-stats.vercel.app/api?username=thakurakanksha288&show_icons=true&hide_border=true&bg_color=000000&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurakanksha288&layout=compact&hide_border=true&bg_color=000000&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" height="165" />
-  </a>
-
-  <br><br>
-
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurakanksha288&background=000000&border=000000&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7&dates=888888" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
-  <!-- Activity Graph -->
-  <a href="https://github.com/thakurakanksha288">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurakanksha288&theme=react-dark&hide_border=true&bg_color=000000&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" />
-  </a>
-
-</div>
+View projects and ongoing work directly on my GitHub profile: [@thakurakanksha288](https://github.com/thakurakanksha288)
 
 ---
 
